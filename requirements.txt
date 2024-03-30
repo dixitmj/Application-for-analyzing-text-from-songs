@@ -2,5 +2,5 @@
  SpeechRecognition
  pydub
  transformers
- tenserflow
+ tensorflow
  pocketsphinx
